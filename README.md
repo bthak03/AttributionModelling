@@ -1,4 +1,3 @@
-# AttributionModelling
 # Attribution Modelling  
 ## Content
 - LTA
