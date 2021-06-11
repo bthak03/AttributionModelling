@@ -24,5 +24,9 @@
 ## Logistic Regression 
 ![image](https://user-images.githubusercontent.com/58665046/121719739-f3e72a00-cab0-11eb-80fe-8fb9d925b014.png)
 
-Codelab Links Both Parts:
-https://codelabs-preview.appspot.com/?file_id=1HMJIbcJHtf31iAqPQgsmdvjXog54aktwlNrawiu-EC8#0
+## Streamlit Implementation with ROI
+![image](https://user-images.githubusercontent.com/58665046/121720906-a15a3d80-cab1-11eb-9054-090e70548c1d.png)
+
+
+
+
